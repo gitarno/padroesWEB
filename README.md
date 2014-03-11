@@ -52,8 +52,8 @@ NOTE:   Você não visualizará na Master as alterações feitas no dia da aula 
 Autor: 
 Arno Roldão Junior
 
-TargetTrust© \n
-Rua São Francisco da Califórnia, 23 \n
-Bairro Higienópolis - Porto Alegre - RS \n
-Tel: (51) 3325.2596 
+TargetTrust
 
+Rua São Francisco da Califórnia, 23c
+Bairro Higienópolis - Porto Alegre - RS
+Tel.: (51) 3325.2596
