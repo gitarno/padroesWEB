@@ -36,6 +36,10 @@ Esse repositório tem como objetivo disponibilizar todo o contéudo feito em aul
 
 E clonar esse repositório para dentro da maquina LOCAL
 
+NOTE:   Você não visualizará na Master as alterações feitas no dia da aula e sim no BRANCHES! 
+        O NOME do Branche será o codigo da turma! 
+
+
 ####O Conceito
 
 - O Github é apenas um repositório online, para armazenar e controlar seus codigos fontes.
