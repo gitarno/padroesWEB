@@ -36,8 +36,8 @@ Esse repositório tem como objetivo disponibilizar todo o contéudo feito em aul
 
 E clonar esse repositório para dentro da maquina LOCAL
 
-NOTE:   Você não visualizará na Master as alterações feitas no dia da aula e sim no BRANCHES! 
-        O NOME do Branche será o codigo da turma! 
+NOTE:   *Você não visualizará na Master as alterações feitas no dia da aula e sim no BRANCHES!* 
+        *O NOME do Branche será o codigo da turma!* 
 
 
 ####O Conceito
@@ -54,8 +54,6 @@ Arno Roldão Junior
 
 TargetTrust
 
-Rua São Francisco da Califórnia, 23c.
-
-Bairro Higienópolis - Porto Alegre - RS.
-
-Tel.: (51) 3325.2596.
+*Rua São Francisco da Califórnia, 23c.*
+*Bairro Higienópolis - Porto Alegre - RS.*
+**Tel.: (51) 3325.2596.**
