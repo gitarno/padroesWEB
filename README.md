@@ -53,7 +53,6 @@ Autor:
 Arno Roldão Junior
 
 TargetTrust
-
-Rua São Francisco da Califórnia, 23c
-Bairro Higienópolis - Porto Alegre - RS
-Tel.: (51) 3325.2596
+Rua São Francisco da Califórnia, 23c.
+Bairro Higienópolis - Porto Alegre - RS.
+Tel.: (51) 3325.2596.
