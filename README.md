@@ -1,5 +1,5 @@
 #padroesWEB
-==========
+
 ###Padrões de HTML e CSS 
 
 ####Descrição do Curso
