@@ -6,17 +6,44 @@
 </head>
 <body>
 <h1>Página Inicial</h1>
-<nav>
-<ul>
-  <li><a href="a.html" title= "A" target="_self">Ir para a página A</a></li>
-  <br>
-  <br>
-  <li><a href="b.html" title= "B" target="_blank">Ir para a página B</a></li>
-  <br>
-  <br>
-  <li><a href="c.html" title= "C" target="_new">Ir para a página C</a></li>
-  </ul>
-  <p><a href="#" title= "Footer" target="_sels">Ir para baixo</a></p>
-</nav>
+<header id="navbar">
+<form id="contato" method="post">
+  <fieldset>
+    <legend> Dados Pessoais</legend>
+    <label for="nome">Nome</label>
+    <input type="text" name="Nome:" autocomplete="on" required placeholder="Primeiro nome">
+    <input type="text" name="Sobrenome:" placeholder="Sobrenome">
+    <input type="button" value="Cadastrar">
+    <input type="submit" value"ok">
+    <input type="reset" value="Reset">
+    <br>
+    <p>Hobbies:
+      <label for="esporte">Golf</label>
+      <input type="checkbox" name="Golf" value="1">
+      <label for="esporte">Futebol</label>
+      <input type="checkbox" name="Futebol" value="1">
+      <label for="esporte">Minecraft</label>
+      <input type="checkbox" name="Minecraft" value="1" checked>
+    </p>
+    <br>
+    <label for="sexo">Sexo:</label>
+    <label for="sexo">Feminino</label>
+    <input type="radio" name="sexo" value="F" checked>
+    <label for="sexo">Masculino</label>
+    <input type="radio" name="sexo" value="M">
+    <br>
+    <select name="uf">
+    <optgroup label="UF">
+    <option value="RS">Rio Grande do Sul</option>
+    <option value="PR" selected>Paraná</option>
+    <option value="SC">Santa Catarian</option>
+    </optgroup>
+    </select>
+    <br><br>
+    <textarea name="OBS">
+    </textarea>
+  </fieldset>
+</form>
+</header>
 </body>
 </html>
