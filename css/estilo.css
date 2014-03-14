@@ -7,7 +7,20 @@
 .classe{
 
 }
-
 header{
 	
+}
+*{
+	margin:0px;
+	padding:0px;	
+}
+body{
+	background:#c70000; 
+	/*esse não vale....*/
+	color:#FFF;
+	background:#093; 
+	/* cuidado com isso!!!!!*/
+	margin:0px;
+	padding:0px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
 }
