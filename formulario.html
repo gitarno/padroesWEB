@@ -9,18 +9,40 @@
 <form id="contato"  method="post">
   <fieldset>
     <legend>Dados pessoais</legend>
-    <input type="text" name="nome" required placeholder="Seu Nome *">
-	<input type="text" name="sobrenome" required placeholder="Seu Sobrenome *">
+    <label for="nome"> Nome: </label>
+    <input type="text" name="nome" required placeholder="Seu Nome *"><br>
+    
+    <label for="sobrenome">Sobrenome </label>
+	<input type="text" name="sobrenome" required placeholder="Seu Sobrenome *"><br>
     
     <textarea name="obs"> 
     
-    </textarea> 
+    </textarea> <br>
     
     
     <input type="button" value="Falso" disabled>
     <input type="submit" value="Cadastrar">
     <input type="reset" value="Limpar">
+    
+    
+    <input type="checkbox" name="golf" value="true">
+    <input type="checkbox" name="futebol">
+    <input type="checkbox" name="volei">
+    <input type="checkbox" name="minecraft" >
      
+    <label for="sexo"> Masculino </label> 
+    <input type="radio" name="sexo" value="1" label="região sul">
+    <label for="sexo"> Feminino </label>
+    <input type="radio" name="sexo" value="2" label="região sul">
+
+	<select name="estado">
+    	<optgroup label="região sul"> 
+            <option value="RS">Rio Grande do Sul</option>
+            <option value="SP">São Paulo</option>
+            <option value="SC">Santa Catarina</option>
+            <option value="??">Acapulco</option>                        
+        </optgroup>
+    </select>        
     
   </fieldset>
 </form>
