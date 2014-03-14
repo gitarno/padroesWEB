@@ -8,8 +8,23 @@
 
 }
 header{
-	
+	width:90%;
+	padding:5%;
+	padding:0px 5%;
+	/*padding:0% 5% 0% 5%;
+	padding-top:0%;
+	padding-right:5%;
+	padding-bottom:0%;
+	padding-left:0%; 
+	 */
+	font-size:14px;
+	background:#909;
 }
+header a{
+	color:#fff;	
+	text-decoration:none;
+}
+
 *{
 	margin:0px;
 	padding:0px;	
