@@ -5,7 +5,9 @@ header#navbar{
 	width:90%;
 	height:auto;
 	position:fixed;
-	
+	top:0px;
+	left:0px;
+
 	padding:5%;
 	padding:0px 5%;
 	/*padding:0% 5% 0% 5%;
@@ -23,6 +25,31 @@ header#navbar a{
 	color:#fff;	
 	text-decoration:none;
 }
+
+
+header#navbar ul{
+	width:auto;
+	height:auto;
+	position:relative;
+	float:right;
+}
+
+header#navbar ul li{
+	display:inline;
+	width:auto;
+	height:auto;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 *{
 	margin:0px;
