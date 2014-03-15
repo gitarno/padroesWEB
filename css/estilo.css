@@ -1,13 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 
-#navbar{
-	
-}
-.classe{
-
-}
-header{
+header#navbar{
 	width:90%;
 	padding:5%;
 	padding:0px 5%;
@@ -19,8 +13,10 @@ header{
 	 */
 	font-size:14px;
 	background:#909;
+	/*css3 */
+	box-shadow:0px -2px 10px #000;
 }
-header a{
+header#navbar a{
 	color:#fff;	
 	text-decoration:none;
 }
