@@ -7,7 +7,6 @@ Envolver as normas para a construção e renderização de páginas da Web, incl
 * [Github W3C](http://github.com/w3c)
 * [Validator W3C](http://validator.w3.org)
 
-
 ### Bibliografias 
 * [W3C Normas e Projetos](http://www.w3.org/TR)
 * [Referencias para HTML](http://www.w3c.br/pub/Materiais/PublicacoesW3C/guia-xhtml-w3cbr.pdf)
@@ -26,7 +25,7 @@ Envolver as normas para a construção e renderização de páginas da Web, incl
 * [Não me faça pensar](http://goo.gl/L7HzDx)
 * [Usabilidade na web](http://goo.gl/vb7Ar7)
 * [DOC NIELSEN: Confiança do consumidor](http://goo.gl/vvvRPl)
-
+* [Browser Diet](http://browserdiet.com/pt/)
 
 ### Ferramentas Extras
 * [Sprite Icons](http://cssspritegenerator.net)
