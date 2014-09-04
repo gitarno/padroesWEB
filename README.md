@@ -3,7 +3,7 @@ Envolver as normas para a construção e renderização de páginas da Web, incl
 
 ### Links úteis 
 * [w3c](http://w3c.br/Home/WebHome)
-* [w3c: Standards](http://www.w3.org/standards/)
+* [w3c: Standards](http://www.w3c.br/Padroes/)
 * [Github W3C](http://github.com/w3c)
 * [Validator W3C](http://validator.w3.org)
 
