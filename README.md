@@ -11,7 +11,8 @@ Envolver as normas para a construção e renderização de páginas da Web, incl
 ### Bibliografias 
 * [W3C Normas e Projetos](http://www.w3.org/TR)
 * [Referencias para HTML](http://www.w3c.br/pub/Materiais/PublicacoesW3C/guia-xhtml-w3cbr.pdf)
-* [Referência de CSS] (http://www.w3c.br/divulgacao/guiasreferencia/css2)
+* [Referência de CSS](http://www.w3c.br/divulgacao/guiasreferencia/css2)
+* [HTML DOG: reference](http://htmldog.com/reference/)
 
 ### Bibliografias especificas
 * [LIsta de meta tags <meta ... > ](http://www.i18nguy.com/markup/metatags.html)
@@ -22,8 +23,8 @@ Envolver as normas para a construção e renderização de páginas da Web, incl
 ### Bibliografia complementar
 * [Design Thinking](http://goo.gl/iL9IuP)
 * [Design Thinking Brasil](http://goo.gl/CllOko)
-* [Não me faça pensar] (http://goo.gl/L7HzDx)
-* [Usabilidade na web] (http://goo.gl/vb7Ar7)
+* [Não me faça pensar](http://goo.gl/L7HzDx)
+* [Usabilidade na web](http://goo.gl/vb7Ar7)
 * [DOC NIELSEN: Confiança do consumidor](http://goo.gl/vvvRPl)
 
 
