@@ -18,7 +18,6 @@ Envolver as normas para a construção e renderização de páginas da Web, incl
 * [Meta tags Rede Sociais](http://www.tableless.com.br/utilizando-meta-tags-facebook)
 * [Google:Minify HTML](https://developers.google.com/speed/docs/insights/PrioritizeVisibleContent?hl=pt-BR#MinifyHTML)
 
-
 ### Bibliografia complementar
 * [Design Thinking](http://goo.gl/iL9IuP)
 * [Design Thinking Brasil](http://goo.gl/CllOko)
@@ -31,4 +30,6 @@ Envolver as normas para a construção e renderização de páginas da Web, incl
 * [Sprite Icons](http://cssspritegenerator.net)
 * [Minify HTML online](http://kangax.github.io/html-minifier/)
 * [Minify CSS](http://cssminifier.com/)
+* [JSBIN](http://jsbin.com/)
+* [JSFiddle](http://jsfiddle.com/)
 
