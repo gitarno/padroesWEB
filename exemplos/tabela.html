@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Tabela </title>
+	<meta charset="utf-8"> 
+</head>
+<body>
+	<!-- tabelas mais organizadas --> 
+	<table border="1" summary="Descrição interna da tabela apenas por identificaão interna da tabela">
+		<caption> Titulo ou descrição da tabela </caption>
+	<!-- TAG QUE DEFINE a area do HEAD da sua tabela --> 
+		<thead>
+  		<!-- LINHA (row)  --> 
+		    <tr>
+		    <!-- CELULAS HEAD (Colunas) 
+				Observe que essas celulas diferentemente das demais 
+				tanto para o rodpé quanto para o corpo da tabela 
+				é escrita "th".. pois possui propriedades especificas 
+				para o cabecalho --> 
+				<th>Produtos</th>
+				<th>Valor</th>
+		    </tr>
+		</thead>
+
+	<!-- TAG QUE DEFINE a area do FOOTER da sua tabela --> 
+		<tfoot>
+	  <!-- LINHA (row)  --> 
+			<tr>
+				<td>Total: </td>
+				<td>$333</td>
+			</tr>
+		</tfoot>
+	  
+	<!-- TAG QUE DEFINE a area do BODY da sua tabela --> 
+		<tbody>
+	  	<!-- LINHA (row)  --> 
+		    <tr>
+				<!-- CELULAS (Colunas) --> 
+				<td>Produto 1 </td>
+				<td>R$111 </td>
+		    </tr>
+		    <!-- LINHA (row)  --> 
+		    <tr>
+				<!-- CELULAS (Colunas) --> 
+				<td>Produto 2 </td>
+				<td>R$222 </td>
+		    </tr>
+		</tbody>
+	</table>
+</body>
+</html>
