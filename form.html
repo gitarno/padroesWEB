@@ -4,13 +4,16 @@
 	<title></title>
 </head>
 <body>
-	<form>
+	<form method="post" action="">
 
-		<label for="nome"> Nome: </label>
-		<input id="nome" type="text" name="nome" placeholder="Digite seu nome"> <br>
+		<fieldset>
+			<legend>Dados pessoais</legend>
+			<label for="nome"> Nome: </label>
+			<input id="nome" type="text" name="nome" placeholder="Digite seu nome"> <br>
 		
-		<label for="sobrenome"> Sobrenome: </label>
-		<input id="sobrenome" type="text" name="sobrenome" placeholder="Digite seu sobrenome">
+			<label for="sobrenome"> Sobrenome: </label>
+			<input id="sobrenome" type="text" name="sobrenome" placeholder="Digite seu sobrenome">
+		</fieldset>
 
 		<input type="submit" value="enviar">
 
