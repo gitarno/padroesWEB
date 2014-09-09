@@ -13,7 +13,7 @@ div{
 .textoExemplo{
 	background: #0000CC;
 }
-.cabecalho{
+div.cabecalho{
 	color: blue;
 	text-align: center;
 	background: #aaa;
@@ -25,12 +25,8 @@ div{
 .artigo .cabecalho h3{
 
 }
-.artigo p{
-
-}
-.artigo .rodape{
-
-}
+.artigo p,
+.artigo .rodape,
 .artigo .rodape a{
-
+	background: orange;
 }
