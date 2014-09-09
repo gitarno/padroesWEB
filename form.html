@@ -1,24 +1,65 @@
 <!doctype html>
 <html>
 <head>
+	<meta charset="utf-8">
 	<title></title>
 </head>
 <body>
-	<form method="post" action="">
-
+	<!--Abaixo começa o formulário que está no método get que mostra as informações na URL. Poderia ser utilizado o método post, que é mais seguro. A action se refere ao arquivo que irá se comunicar com os dados enviados deste formulário-->
+	<form method="get" action="processadorformulario">
+		<!--O fieldset serve para deixar uma linha em volta do formulário-->
 		<fieldset>
-			<legend>Dados pessoais</legend>
-			<label for="nome"> Nome: </label>
-			<input id="nome" type="text" name="nome" placeholder="Digite seu nome"> <br>
+		<!--O legend que está abaixo é o título do formulário-->
+		<legend>Dados Pessoais</legend>
+		<label for="nome"> Nome: </label>
+		<input id="nome" type="text" name="nome" placeholder="Digite seu nome"> <br>
 		
-			<label for="sobrenome"> Sobrenome: </label>
-			<input id="sobrenome" type="text" name="sobrenome" placeholder="Digite seu sobrenome">
-		</fieldset>
+		<label for="sobrenome"> Sobrenome: </label>
+		<input id="sobrenome" type="text" name="sobrenome" placeholder="Digite seu sobrenome">
+		<br>
+		<label for="senha"> Senha:</label>
+		<input type="password" name="senha" placeholder="Insira sua senha">
+		<br><br>
+		Qual seu gênero?
+		<br>
+		<input type="radio" name="sex" value="1"/>Masculino<br>
+		<input type="radio" name="sex" value="2"/>Feminino<br>
+		<br>
 
+		Qual sua renda?
+		<br>
+		<input type="radio" name="renda" value="1"/>1 a 5 salários mínimos<br>
+		<input type="radio" name="renda" value="2"/>6 a 10 salários mínimos<br>
+		<input type="radio" name="renda" value="3"/>11 a 15 salários mínimos<br>
+		<input type="radio" name="renda" value="4"/>Mais de 16 salários mínimos<br><br>
+		
+		Como você vai trabalhar?
+		<br>
+		<input type="checkbox" name="transporte" value="carro"/>Carro<br>
+		<input type="checkbox" name="transporte" value="moto"/>Moto<br>
+		<input type="checkbox" name="transporte" value="onibus"/>Ônibus<br>
+		<br>
+		
+	
+		Qual a marca de seu carro?
+		<br>
+		<select name="carros">
+			<option value="volvo">Volvo</option>
+			<option value="GM">GM</option>
+			<option value="fiat">Fiat</option>
+		</select>
+		<br><br> 
+
+		<br> 
 		<input type="submit" value="enviar">
-
+			</fieldset>
 	</form>
 
-	
+	<form>
+
+
+
+
+	</form>
 </body>
 </html>
