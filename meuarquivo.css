@@ -1,36 +1,70 @@
-/* ID */
-#unico{
-	background: #CC0000;
-}
-/* TAG */
+/*regra de css voltada para tag*/
 div{
 	color: red;
 	background: #ECECEC;
 	padding: 20px;
 	text-align: center;
 }
-/* CLASS */
+
+/*regra de css voltada para classe*/
 .textoExemplo{
-	background: #0000CC;
-}
-.cabecalho{
 	color: blue;
+	background: #ff7979;
+	padding: 20px;
 	text-align: center;
-	background: #aaa;
 }
-.artigo .cabecalho{
+
+/*regra de css voltada para id*/
+#unico{
 	color: green;
+	background: #cc0000;
+	padding: 20px;
+	text-align: center;
+}
+
+/*regra de css para a classe artigo*/
+.artigo{
+	color: black;
+	background: white;
+	padding: 5px;
+	text-align: left
+}
+
+/*regra de css para a classe cabecalho*/
+.cabecalho{
+	color: red;
+	background: white;
+	padding: 5px;
+	text-align: center;
+}
+
+/*regra de css para a classe cabecalho que está dentro de artigo*/
+.artigo .cabecalho{
+	color: gray;
+	background: yellow;
 	text-align: left;
 }
-.artigo .cabecalho h3{
 
-}
+/*regra de css para a classe p que está dentro de artigo*/
 .artigo p{
+	color: black;
+	background: white;
+	padding: 5px;
+	text-align: left
 
 }
-.artigo .rodape{
 
-}
+/*regra de css para a div a que está dentro de rodape que está dentro de artigo*/
 .artigo .rodape a{
-
+	background: red;
 }
+
+/*regra de css para a tag h2 que está dentro de cabecalho que está dentro de artigo*/
+.cabecalho h2{
+	color: red;
+	background: black;
+	padding: 0px;
+	text-align: center;
+}
+
+
