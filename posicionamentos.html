@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Positions</title>
+		<meta charset="utf-8">
+		<!--CSS estruturado-->
+		
+		<style type="text/css">
+		@import url(http://fonts.googleapis.com/css?family=Roboto); /*Link copiado do Google Fonts para utilizar a fonte Roboto no site*/
+
+		*{/*o asterisco serve para colocar um defalut de CSS em todas divs*/
+			font-family: "Roboto", arial, verdana; /*fontes com espaço nas palavras tem que ter aspas ou fontes não muito */
+			margin: 0px;
+			padding: 0px;
+			box-sizing:border-box;
+		}
+
+		p{
+			position: relative;
+			float: left; /*para que eles flutue na esquerda*/
+			width: 300px;
+			height: 150px;
+			overflow: hidden;
+			background: #ccc;
+			margin: 1px;
+			padding: 5px;
+		}
+
+		#window-modal{
+			background: #c70;
+			color: #fff;
+			position: absolute;
+			left: 50px;
+			top: 50px;
+			z-index: 10;
+		}
+		#menubar {
+			position: fixed;
+			float: left;
+			width: 100%;
+			height: 40px;
+			padding: 10px;
+			background: #555;
+			color: white;
+			left: 0px;
+			top: 0px;
+			z-index: 100;
+		}
+
+		</style>
+	</head>
+	<body>
+		<div id="menubar">
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+		</div>
+
+		<p>	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua.	</p>
+		<p>	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua.	</p>
+		<p>	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua.	</p>
+
+		<p id="window-modal">
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua.
+		</p>
+		
+		
+	</body>
+</html>
