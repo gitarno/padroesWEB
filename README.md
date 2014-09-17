@@ -27,12 +27,13 @@ Envolver as normas para a construção e renderização de páginas da Web, incl
 * [Browser Diet](http://browserdiet.com/pt/)
 * [Pronus - Versionamentos Distribuidos e centralizados](http://goo.gl/LCc06S)
 
-### Ferramentas Extras
+### Extras
 * [Sprite Icons](http://cssspritegenerator.net)
 * [Minify HTML online](http://kangax.github.io/html-minifier/)
 * [Minify CSS](http://cssminifier.com/)
 * [JSBIN](http://jsbin.com/)
 * [JSFiddle](http://jsfiddle.com/)
+* [CSS..prezi](http://prezi.com/4dx_kbhxm6p4/?utm_campaign=share&utm_medium=copy&rc=ex0share)
 
 Recomendações e Observações: 
 Faça um clone desse projeto em sua maquina, assim você poderá contribuir*, ajustar ou criar novos arquivos que deseja compartilhar. Caso deseje compartilhar arquivos especificos relacionados ao desenvolvimento web, acesse a pasta de arquivos alunos, crie uma com seu nome e compartilhe seus dados e assuntos. 
