@@ -1,0 +1,26 @@
+/* ID */
+#unico{
+	background: #CC0000;
+}
+
+/* CLASS */
+.textoExemplo{
+	background: #0000CC;
+}
+div.cabecalho{
+	color: blue;
+	text-align: center;
+	background: #aaa;
+}
+.artigo .cabecalho{
+	color: green;
+	text-align: left;
+}
+.artigo .cabecalho h3{
+
+}
+.artigo p,
+.artigo .rodape,
+.artigo .rodape a{
+	background: orange;
+}

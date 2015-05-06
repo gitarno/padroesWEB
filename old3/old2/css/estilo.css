@@ -1,0 +1,121 @@
+@charset "utf-8";
+/* CSS Document */
+
+header#navbar{
+	width:90%;
+	height:auto;
+	position:fixed;
+	top:0px;
+	left:0px;
+	
+	min-width:800px;
+	
+	padding:5%;
+	padding:0px 5%;
+	/*padding:0% 5% 0% 5%;
+	padding-top:0%;
+	padding-right:5%;
+	padding-bottom:0%;
+	padding-left:0%; 
+	 */
+	font-size:14px;
+	background:#909;
+	/*css3 */
+	box-shadow:0px -2px 10px #000;
+	
+	z-index:2000;
+}
+
+
+
+
+header#navbar ul{
+	width:auto;
+	height:auto;
+	position:relative;
+	float:right;
+}
+
+header#navbar ul li{
+	display:inline;
+	width:auto;
+	height:auto;
+}
+
+
+header#navbar h1{
+	position:relative;
+	float:left;
+	width:auto;
+	font-size:19px;
+	padding:10px;	
+	height:20px;	
+}
+
+header#navbar a{
+	color:#fff;	
+	text-decoration:none;
+	background:#90C;
+	padding:10px;
+	height:20px;
+	position:relative;
+	float:left;
+	margin: 0px 1px 0px 0px;
+}
+header#navbar a:hover{
+	background:#906;
+}
+
+#banner{
+	width:100%;
+	height: 300px;
+	position:relative;
+	
+	background: url('http://images.apple.com/v/home/as/images/your_verse_hero.jpg');
+	background-repeat:no-repeat;
+	background-position: 50% 72%;
+	z-index:10;
+	
+}
+
+#banner section {
+	background: rgb(218, 134, 227);
+	width: 300px;
+	position: absolute;
+	top: 80px;
+	left: 5%;
+	padding: 15px;
+	border-radius: 5px;
+	opacity: 0.8;
+}
+
+
+
+
+
+
+
+
+
+
+*{
+	margin:0px;
+	padding:0px;	
+}
+body{
+	background:#c70000; 
+	/*esse não vale....*/
+	color:#FFF;
+	background:#093; 
+	/* cuidado com isso!!!!!*/
+	margin:0px;
+	padding:0px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+@media screen and (max-width:700px){
+	body{
+		background:#FC0 !important;	
+	}
+}
+@import url('cor.css');
