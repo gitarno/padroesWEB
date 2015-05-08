@@ -1,0 +1,19 @@
+
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing:border-box;
+}
+
+body, 
+html{
+	width: 100%;
+	height: 100%;
+}
+
+body{
+	background-image: url("http://midia.iplay.com.br/Imagens/PapelDeParede/005510.jpg");
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+}
