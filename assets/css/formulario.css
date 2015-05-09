@@ -1,0 +1,54 @@
+@import url(estiloGlobais.css);
+
+form#login{
+	background: #B7BC7F;
+	padding: 10px;
+	position: relative;
+	float: left;
+	width: 290px;
+}
+form#login input, 
+form#login label{	
+	position: relative;
+	float: left;
+	width: 100%;
+	padding: 0px;
+}
+
+form#login input{
+  padding-top: 10px;
+  margin-bottom: 10px;
+}
+
+form#login .widthAuto{
+  width: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.logotipo{
+
+}
+.logotipo.inverse{
+
+}
+#header .logotipo{
+
+}
+#footer .logotipo{
+	
+}
