@@ -41,7 +41,6 @@ form#login .widthAuto{
   width: auto;
 }
 
-
 form#login input[type="submit"]{
   background: #F34F29;
   height: 50px;

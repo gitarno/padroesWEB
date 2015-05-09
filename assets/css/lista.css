@@ -1,0 +1,26 @@
+@import url(estiloGlobais.css);
+@import url(estilo.css);
+
+
+.alunos{
+
+	
+	
+	  text-align: left;
+	
+}
+
+.alunos:hover{
+	margin-left: -50px;
+}
+
+.alunos li{
+	background: #cecece;
+	padding: 10px 0px;
+}
+
+
+.alunos li:nth-child(odd){
+	background: transparent;
+}
+
