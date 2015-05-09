@@ -7,7 +7,15 @@
 	
 	
 	  text-align: left;
-	
+	  max-width: 380px;
+	  background: #dedede;
+	  height: 100%;
+	  position: fixed;
+	  float: left;
+	  width: 380px;
+	margin-left: -370px;
+	transition: margin ease 0.5s;
+	  z-index: 4000;
 }
 
 .alunos:hover{
