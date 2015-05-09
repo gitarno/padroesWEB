@@ -18,6 +18,8 @@ form#login label{
 	float: left;
 	width: 100%;
 	padding: 0px;
+	padding: 10px 0px;
+    text-align: center;
 	
 }
 
@@ -53,6 +55,9 @@ form#login input[type="submit"]{
 form#login input[type="submit"]:hover{
   background: #c76000;
   height: 100px
+}
+form#login input:focus{
+  background: red;
 }
 
 
